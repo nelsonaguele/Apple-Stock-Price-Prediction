@@ -20,7 +20,7 @@
 #### •	Modeling: Development and tuning of the predictive model.
 #### •	Evaluation: Metrics and techniques used to evaluate the model's performance.
 ## Contributing
-##### If you wish to contribute to the project, please fork the repository and submit a pull request.
+##### Contribution to this project is not allowed right at this stage of the project but may be considered at the project completion
 ## Authors
 ##### •	Nelson Aguele - nelsonaguele
 ## Acknowledgments
