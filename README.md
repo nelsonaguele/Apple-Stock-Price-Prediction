@@ -1,6 +1,6 @@
 # Apple Stock Price Prediction Project
 ## Project Overview
-##### This project aims to develop a machine learning models to predict future Apple stock prices based on historical data from 2014 to 2023. The repository contains all the necessary files, including data, Jupyter notebooks, and additional resources required to understand and run the project code.
+##### This project aims to develop machine learning models to predict future Apple stock prices based on historical data from 2014 to 2023. The repository contains all the necessary files, including data, Jupyter notebooks, and additional resources required to understand and run the project code.
 ## Contents
 #### •	data/: Folder containing the dataset used in the predictions.
 #### •	notebooks/: Jupyter notebooks with all the code and analysis.
